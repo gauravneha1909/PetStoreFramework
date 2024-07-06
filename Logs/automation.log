@@ -1,0 +1,41 @@
+2024-07-06 12:44:12.548 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 12:44:13.266 [main] INFO  api.storetests.StoreTest - ****finding order by petid*****
+2024-07-06 12:44:13.272 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 12:46:21.294 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 12:46:24.404 [main] INFO  api.storetests.StoreTest - ****finding order by petid*****
+2024-07-06 12:46:25.705 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 12:50:11.146 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 12:50:14.232 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 12:50:15.518 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
+2024-07-06 12:50:16.862 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 12:51:55.668 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 12:51:58.903 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 12:52:00.393 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
+2024-07-06 12:52:01.908 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 12:53:20.431 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 12:53:23.682 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 12:53:25.258 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
+2024-07-06 12:53:26.703 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 12:56:01.063 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 12:56:04.652 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 13:01:44.616 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 13:01:47.989 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 13:10:08.789 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 13:19:30.799 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 13:19:34.437 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 13:19:54.275 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 13:19:58.393 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 13:19:59.747 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
+2024-07-06 13:20:01.290 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 13:21:18.022 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 13:21:21.139 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 13:21:22.590 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
+2024-07-06 13:21:23.931 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 13:24:01.180 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 13:24:04.909 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 13:24:06.419 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
+2024-07-06 13:24:07.954 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 13:24:49.275 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 13:24:52.711 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 13:24:54.038 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
+2024-07-06 13:24:55.467 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
