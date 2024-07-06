@@ -39,3 +39,11 @@
 2024-07-06 13:24:52.711 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
 2024-07-06 13:24:54.038 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
 2024-07-06 13:24:55.467 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 13:54:25.971 [main] INFO  api.storetests.StoreTest - ****adding new order*****
+2024-07-06 13:54:29.679 [main] INFO  api.storetests.StoreTest - ****deleting order by order id*****
+2024-07-06 13:54:31.126 [main] INFO  api.storetests.StoreTest - ****finding order by pet id*****
+2024-07-06 13:54:32.410 [main] INFO  api.storetests.StoreTest - ****getting inventory info*****
+2024-07-06 13:54:33.560 [main] INFO  api.storetests.StoreTest2 - ****adding new order*****
+2024-07-06 13:54:35.146 [main] INFO  api.storetests.StoreTest2 - ****deleting order by order id*****
+2024-07-06 13:54:36.621 [main] INFO  api.storetests.StoreTest2 - ****finding order by pet id*****
+2024-07-06 13:54:38.191 [main] INFO  api.storetests.StoreTest2 - ****getting inventory info*****
